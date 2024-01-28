@@ -1,0 +1,126 @@
+/*---header-------------------------*/
+body {
+    background-image: url(../images/3239444.jpg);
+    background-attachment: fixed;
+}
+.tag1{
+    background-color: rgb(211, 232, 239);
+    width: 90px;
+    padding: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.7;
+    border-radius:8px ;
+    margin-left: 1300px;
+    position: relative;
+    margin-top: 10px;
+}
+.tag2{
+    background-color: rgb(211, 232, 239);
+    padding: 4px;
+    opacity: 0.7;
+    border-radius:8px ;
+    position: relative;
+    margin-left: 25px;
+    margin-top: 25px;
+    
+}
+.tag3{
+    background-color: rgb(211, 232, 239);
+    padding: 4px;
+    opacity: 0.7;
+    border-radius:8px ;
+    position: relative;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.portfolio {
+    margin: 0;
+    background-color: rgb(211, 232, 239);
+    width: 270px;
+    padding: 5px 23px;
+    border-radius: 8px;
+    margin-left: 55px;
+    margin-top: 60px;
+    font-size: 70px;
+    opacity: 0.7;
+    font-family: 'Outfit', sans-serif;
+}
+/*-----about----------------------*/
+.about1 {
+    margin-left: 800px;
+    background-color: rgb(211, 232, 239);
+    opacity: 0.9;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5px 23px;
+    margin-top: 200px;
+    margin-right: 55px;
+    padding-left: 150px;
+    font-family: 'Outfit', sans-serif;
+}
+.robot1 {
+    width: 350px;
+    position: relative;
+    bottom: 410px;
+    left: 558px;
+}
+.about2 {
+    margin-left: 55px;
+    background-color: rgb(211, 232, 239);
+    opacity: 0.9;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5px 23px;
+    margin-top: -400px;
+    margin-right: 55px;
+    width: 600px;
+    font-family: 'Outfit', sans-serif;
+}
+/*----------------certificate--------------*/
+.certificate {
+    margin-left: 170px;
+    background-color: rgb(211, 232, 239);
+    opacity: 0.9;
+    border-radius: 8px;
+    width: 1300px;
+    padding: 5px 23px;
+    border-radius: 8px;
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    margin-top: 170px;
+    font-family: 'Outfit', sans-serif;
+}
+.certificate img {
+    width: 450px;
+    height: 300px;
+    padding-bottom: 40px;
+}
+.certificate-para {
+    padding-left: 20px;
+    font-weight: 600;
+}
+.icon {
+    list-style-type: none;
+    padding: 0;
+    display: inline-block;
+    margin-left: 1400px;
+}
+footer {
+    background-color: rgb(211, 232, 239); 
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    opacity: 0.9;
+    font-weight: 600;
+    font-family: 'Outfit', sans-serif;
+}
+footer img {
+    width: 32px;
+    
+}
